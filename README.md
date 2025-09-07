@@ -15,6 +15,6 @@ python -m venv .venv
 .\.venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 python main.py
+```
 
-
-<img width="806" height="627" alt="image" src="https://github.com/user-attachments/assets/05dc4739-ba7e-47df-aaef-a67a60d9cbcc" />
+<img width="806" height="627" alt="image" src="https://github.com/user-attachments/assets/dc82a122-8a2f-4131-8243-008cf94410b7" />
